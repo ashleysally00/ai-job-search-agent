@@ -35,12 +35,12 @@ cd ai-job-search-agent
 
 2. Install dependencies:
 ```bash
-pip install -r requirements.txt
+pip3 install -r requirements.txt
 ```
 
 3. Run the agent:
 ```bash
-python job_search_agent.py
+python3 job_search_agent.py
 ```
 
 ## What It Searches For
