@@ -14,6 +14,15 @@ I built this to demonstrate automation skills and optimize my own job search. Th
 - **Data Export**: Saves results in both JSON (for processing) and TXT (for reading)
 - **Extensible**: Easy to add new job boards or customize search criteria
 
+## Current Coverage
+The agent successfully searches and filters roles from:  
+- Greenhouse: Anthropic, Figma, Airtable, Discord, Reddit  
+- Lever: Plaid  
+
+It classifies results into:  
+- **Strict matches** – AI UX, content, or prompt-engineering roles  
+- **Wider net** – adjacent product and solutions-oriented AI positions  
+
 ## Quick Start
 
 ### Requirements
