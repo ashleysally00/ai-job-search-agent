@@ -1,0 +1,61 @@
+{
+  "job_titles": [
+    "AI UX Designer",
+    "AI UX Researcher",
+    "Content Engineer",
+    "Prompt Engineer",
+    "AI Content Writer",
+    "AI Content Strategist",
+    "UX Designer AI",
+    "AI Product Designer"
+  ],
+  "keywords": [
+    "prompt engineer",
+    "content engineer",
+    "ai content",
+    "ai writer",
+    "content strategist",
+    "ux",
+    "user experience",
+    "product design",
+    "interaction design"
+  ],
+  "ai_keywords": [
+    "ai",
+    "artificial intelligence",
+    "ml",
+    "machine learning",
+    "llm",
+    "gpt",
+    "generative ai"
+  ],
+  "locations": [
+    "Remote",
+    "San Francisco",
+    "New York",
+    "United States"
+  ],
+  "greenhouse_companies": [
+    "anthropic",
+    "openai",
+    "deepmind",
+    "notion",
+    "figma",
+    "canva",
+    "discord",
+    "ramp",
+    "airtable",
+    "reddit",
+    "coinbase"
+  ],
+  "lever_companies": [
+    "netflix",
+    "shopify",
+    "stripe",
+    "grammarly",
+    "retool",
+    "vercel",
+    "plaid",
+    "affirm"
+  ]
+}
