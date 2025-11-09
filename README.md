@@ -8,7 +8,7 @@ I built this to demonstrate automation skills and optimize my own job search. Th
 
 ## Status
 
-Work in progress - currently testing
+🚧 Work in progress - currently testing
 
 ## Features
 
