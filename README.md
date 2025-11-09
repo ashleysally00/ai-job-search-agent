@@ -6,10 +6,6 @@ An automated job search tool that scans multiple job boards daily for AI-related
 
 I built this to demonstrate automation skills and optimize my own job search. The agent scans 50+ company career pages daily and can be configured for any role type - just edit the keywords in the config file.
 
-## Status
-
-🚧 Work in progress - currently testing
-
 ## Features
 
 - **Multi-board Search**: Automatically scans Greenhouse, Lever, and other job platforms
